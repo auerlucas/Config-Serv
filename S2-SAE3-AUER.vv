@@ -1,0 +1,10 @@
+[virt-viewer]
+type=vnc
+title=S2-SAE3-AUER
+host=one-dell2
+port=14067
+proxy=http://one-frontend:29876?token=9z72mxazs45qq135400f
+fullscreen=0
+toggle-fullscreen=shift+f11
+release-cursor=shift+f12
+secure-attention=ctrl+alt+end
